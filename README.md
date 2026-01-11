@@ -1,4 +1,4 @@
-# Métodos Metaheurísticos para Ciencia de Datos
+# Metaheurísticas para Ciencia de Datos <br>Teoría y Práctica
 
 ### Curso de Maestría en Ciencia de Datos - Universidad de Sonora
 
